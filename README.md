@@ -22,7 +22,7 @@ CI/CD 파이프라인 구축, 클라우드 환경 최적화, 대용량 데이터
 📫 **연락 가능 이메일:  **dogun0224@naver.com****
 </div>
 <br>
-<h2 align="center">🔨 Once I've used 🔨</h2>
+<h2 align="center">🔨 Technology Stack 🔨</h2>
 <div style="display:flex; flex-direction:row;" align="center">
     <h4 align="center">Programming Languages</h4>
     <img alt="java" src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
