@@ -88,7 +88,7 @@ CI/CD 파이프라인 구축, 클라우드 환경 최적화, 대용량 데이터
 ✔ **역할:** 팀장, 백엔드 & 프론트엔드 개발, DB 설계 <br>
 ✔ **기술 스택:** JavaScript, Java, Springboot, Mysql, Git, Github  etc. <br>
 ✔ **주요 기능:** 회원 가입, 게시글 검색, CRUD 및 좋아요/싫어요/댓글, 파일 업로드/다운로드 <br>
-✔ **Github 주소: [(Github 주소)]()**
+✔ **Github 주소: [(Github 주소)](https://github.com/DGM0224/YGY)**
 
 </div>
 
