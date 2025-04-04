@@ -72,25 +72,97 @@ CI/CD 파이프라인 구축, 클라우드 환경 최적화, 대용량 데이터
 <h2 align="center">💻 Project Experience 💻</h2>  
 <div align="center">
     
-**1️⃣ OneStack - IT 전문가 매칭 플랫폼** <br>
-✔ **설명:** IT 전문가와 의뢰인을 연결하는 매칭 플랫폼 개발  
-✔ **역할:** 부팀장, 서기, 백엔드 & 프론트엔드 개발, DB 설계, 서버 구축 및 배포, CI/CD   
-✔ **기술 스택:** JavaScript, Java, Springboot, Mybatis, Mysql, AWS, Docker, Jenkins, Git, Github, Jira, Confluence  etc. <br>
-✔ **주요 기능:** 전문가 검색, 실시간 채팅, 결제 시스템, 회원 관리 시스템 <br>
-✔ **Github 주소: [(Github 주소)](https://github.com/DGM0224/OneStack)**
-    
-</div>
-
+**💡 OneStack - IT 전문가 매칭 플랫폼** <br><br>
+**📌 역할**
 <div align="center">
+부팀장 & 서기  <br>
+백엔드 및 프론트엔드 개발   <br>
+DB 설계  <br>
+서버 구축 및 배포  <br>
+CI/CD 파이프라인 구축<br>
     
-**2️⃣ 여기용 - 여행 카페 커뮤니티** <br>
-✔ **설명:** 여행 정보 공유를 위한 커뮤니티 구축 <br>
-✔ **역할:** 팀장, 백엔드 & 프론트엔드 개발, DB 설계 <br>
-✔ **기술 스택:** JavaScript, Java, Springboot, Mysql, Git, Github  etc. <br>
-✔ **주요 기능:** 회원 가입, 게시글 검색, CRUD 및 좋아요/싫어요/댓글, 파일 업로드/다운로드 <br>
-✔ **Github 주소: [(Github 주소)](https://github.com/DGM0224/YGY)**
-
 </div>
+
+<br>
+
+**🛠️ 기술 스택** <br><br>
+`JavaScript` `Java` `Spring Boot` `MyBatis` `MySQL`  
+`AWS` `Docker` `Jenkins` `Git` `GitHub` `Jira` `Confluence`
+
+<br>
+
+**✨ 주요 기능** <br>
+<div align="center">
+전문가 검색 및 프로필 보기  <br>
+실시간 채팅 (WebSocket 기반)  <br>
+결제 시스템 (가상 계좌 및 카드 결제 연동)  <br>
+회원 관리 및 등급 시스템 (전문가 / 의뢰인 구분) <br>
+</div>
+
+<br>
+
+**📈 성과** <br>
+<div align="center">
+도메인 기반 아키텍처 설계 및 레이어드 구조 적용으로 확장성과 유지보수성 향상 <br>
+Jenkins + Docker 기반 CI/CD 파이프라인 구축으로 자동 테스트 및 무중단 배포 실현 <br>
+AWS EC2 + Nginx 환경에서 인프라 구성 및 보안 설정 경험 <br>
+회원/채팅/결제 등 주요 기능의 데이터 흐름을 고려한 DB 설계 및 쿼리 최적화 수행 <br>
+</div>
+
+<br>
+
+**🔗 GitHub 저장소** 👉
+[GitHub 바로가기](https://github.com/DGM0224/OneStack)
+
+<br><br>
+--
+
+**💡 여기용 - 여행 카페 커뮤니티** <br><br>
+**📌 역할**
+<div align="center">
+팀장 <br>
+백엔드 & 프론트엔드 개발 <br>
+DB 설계 <br>  
+</div>
+
+<br>
+
+**🛠️ 기술 스택** <br><br>
+`JavaScript` `Java` `Spring Boot` `MySQL` `Git` `GitHub` etc.
+<br>
+
+**✨ 주요 기능** <br>
+<div align="center">
+회원 가입 <br>
+게시글 검색 <br>
+CRUD 및 좋아요/싫어요/댓글 <br>
+파일 업로드/다운로드
+</div>
+
+<br>
+
+**📈 성과** <br>
+<div align="center">
+Spring MVC 기반 CRUD 및 RESTful API 설계 경험  <br>
+파일 업로드/다운로드, 좋아요/싫어요 등의 추가 기능 구현을 통해 사용자 편의성 강화 <br>
+기능 정의 및 역할 분담 체계화로 팀원간 협업 경험
+</div>
+
+<br>
+
+**🔗 GitHub 저장소** 👉
+[GitHub 바로가기](https://github.com/DGM0224/YGY)
+
+    
+</div>
+
+
+
+
+    
+</div>
+
+
 
 <br>
 <h2 align="center">📞 Contact 📞</h2>
