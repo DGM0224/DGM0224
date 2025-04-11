@@ -35,7 +35,7 @@ CI/CD 파이프라인 구축, 클라우드 환경 최적화, 대용량 데이터
     <img alt="bootstrap" src ="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
     <h4 align="center">Backend Development</h4>    
     <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white">    
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring boot&logoColor=white">    
     <h4 align="center">Database</h4>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">    
@@ -43,8 +43,8 @@ CI/CD 파이프라인 구축, 클라우드 환경 최적화, 대용량 데이터
     <h4 align="center">Devops</h4>
     <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazon ec2&logoColor=white">
+    <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white">
+    <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=amazon ec2&logoColor=white">
     <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
     <h4 align="center">Data</h4>
